@@ -1,0 +1,1 @@
+#define INTERGER(d)  printf("%4d\n",d)
